@@ -1,0 +1,8 @@
+{
+  "author": "",
+  "devDependencies": {
+    "@kadira/storybook": "git+https://github.com/storybooks/react-storybook.git"
+  },
+  "private": true,
+  "version": "0.0.0"
+}
